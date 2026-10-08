@@ -140,5 +140,5 @@
 //     n /= 10;
 // }
 
-Console.WriteLine($"Сумма цифр: {sum}");
-Console.WriteLine($"Количество цифр: {count}");
+// Console.WriteLine($"Сумма цифр: {sum}");
+// Console.WriteLine($"Количество цифр: {count}");
